@@ -1,4 +1,4 @@
-Date,SiteID,Division,SiteName,PurchaseCapacity(Mbps),Delay(msec),Jitter(ms),PacketLoss(),Avg(out)mb/sbit/s,Avg(in)mb/sbit/s,PeakThroughput(Mbps),Utilization
+Date,Site ID,Division,Site Name,Purchase Capacity (Mbps),Delay(msec),Jitter(ms),Packet Loss(),Avg(out) mb/sbit/s,Avg(in) mb/sbit/s,Peak Throughput (Mbps) ,Utilization
 1-Nov-18,BGMRL06,Khulna,Kailkabari32mland,250,9.5121,1.5042,0,173.6943359,34.82519531,336.1015625,1.34440625
 1-Nov-18,GGMKS01,Khulna,Baniercharbackbone75m,225,10.3501,1.652,0.00021,65.11523438,64.49902344,118.2119141,0.525386285
 1-Nov-18,GGMKS02,Khulna,Muksedpurland55m,220,9,2,0,55.02734375,11.32910156,99.89160156,0.454052734
